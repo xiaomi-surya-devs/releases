@@ -1,0 +1,14 @@
+# 24 October, 2026
+- Initial LineageOS Build
+- Signed & Vanilla ROM
+- LeicaCamera v4.7 & LunarisDolbyAtmos Included
+- Add Face Unlock & LMOFreeform
+- Enable Blur by Default
+- DT2W & DT2S work
+- Add Support refresh rate from 30-120 HZ
+- Update WFD system blobs from marvel_g A171WEH.20
+- Add more stuff for XiaomiParts
+- Rethinking kernel pre rooted with KernelSU-Next 3.2.0
+- Merge latest sm8150 kernel changes
+- Firmware from MIUI 12.5.8.0 is Included
+- Some ROM source modify (too lazy to write it)
