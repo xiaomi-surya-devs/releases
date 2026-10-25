@@ -1,3 +1,8 @@
+# 25 October, 2026
+- Fixup Steady Video Crashes
+- Patch audio.primary.sm6150.so to load libaudioroute-v34.so
+- HotFix Build
+
 # 24 October, 2026
 - Initial LineageOS Build
 - Signed & Vanilla ROM
