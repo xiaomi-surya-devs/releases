@@ -12,3 +12,5 @@
 - Merge latest sm8150 kernel changes
 - Firmware from MIUI 12.5.8.0 is Included
 - Some ROM source modify (too lazy to write it)
+- Fixup Steady Video Crashes
+- Patch audio.primary.sm6150.so to load libaudioroute-v34.so
